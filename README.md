@@ -1,2 +1,5 @@
-# ZodiacSign
-Super Data Science Python 3 Masterclass - Practical Project #5 - Build Your Zodiac Sign Application
+# Introduction 
+Zodiac Sign
+
+# Description
+The fifth project in the Super Data Science Python Masterclass is a program which takes the user's date of birth, and tells them their age and zodiac sign.
